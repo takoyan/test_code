@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ikuta/tflearn/data/model.tfl"
+all_model_checkpoint_paths: "/home/ikuta/tflearn/data/model.tfl"
